@@ -20,8 +20,9 @@ Following the “Symposium on Open-Source Hardware for Neuroscience Research” 
 
 In 2018, we organised as part of the conference workshop events, a symposium on Open Hardware. During this event our speakers presented an overview of today’s possibilities to cheaply and efficiently build state-of-the-art research equipment using only 3D printed components, microcontrollers and off-the-shelf electronic sensors and actuators. Moreover we presented use cases of these types of development in research, education and global capacity building, with examples taken from the Western and Central Europe as well as sub-Saharan Africa and Latin America. </p>
 
-<p align="left"><img src="https://github.com/MaxZimmer/fens/blob/main/Logos/TReND.png" width="300"/>
-<img align="center" src="https://github.com/MaxZimmer/fens/blob/main/Logos/UoS.png" width="300"/>
-<img align="right" src="https://github.com/MaxZimmer/fens/blob/main/Logos/ON.png" width="300"/></p>
+<p align="left"><img src="https://github.com/MaxZimmer/fens/blob/main/Logos/TReND.png" width="300" height="100"/>
+<img align="center" src="https://github.com/MaxZimmer/fens/blob/main/Logos/UoS.png" width="300" height="100"/>
+<img align="right" src="https://github.com/MaxZimmer/fens/blob/main/Logos/ON.png" width="300" height="100"/>
+</p>
 
 <img align="center"><img src="https://github.com/MaxZimmer/fens/blob/main/Logos/WWN.png"/>
