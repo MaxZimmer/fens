@@ -94,7 +94,7 @@ Open Ephys is a nonprofit based in Cambridge, Massachusetts, with team members d
 ***
 ## Afternoon talk session
 
-###### Open-Source microscopy as an affordable tool for bringing advanced recording equipment earlier in scientific education and improve the accessibility of research equipment to enable cutting-edge research in low resource areas.
+#### Open-Source microscopy as an affordable tool for bringing advanced recording equipment earlier in scientific education and improve the accessibility of research equipment to enable cutting-edge research in low resource areas.
 
 
 >13:00: Maxime Zimmermann, Institut Pasteur, Open-Neuroscience
@@ -127,7 +127,7 @@ Open Ephys is a nonprofit based in Cambridge, Massachusetts, with team members d
 
 ###  
 
-###### Open-Source microscopy as an efficient drive to collaboratively develop hardware, software, and techniques for advanced optical research.
+#### Open-Source microscopy as an efficient drive to collaboratively develop hardware, software, and techniques for advanced optical research.
 
 >15:00: Edvard Moser / Weijian Zong, Kavli Institute for Systems Neuroscience and Centre for Neural Computation, Norwegian University of Science and Technology (NTNU), Trondheim, Norway
 >
