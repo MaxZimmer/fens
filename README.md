@@ -1,8 +1,5 @@
-﻿<img align="left" src="https://github.com/MaxZimmer/fens/blob/main/Logos/FENS.png" width="300"/>
-﻿<img align="right" src="https://github.com/MaxZimmer/fens/blob/main/Logos/IP.png" width="300"/>
-
-
-***
+<p>﻿<img align="left" src="https://github.com/MaxZimmer/fens/blob/main/Logos/FENS.png" width="300"/>
+﻿<img align="right" src="https://github.com/MaxZimmer/fens/blob/main/Logos/IP.png" width="300"/></p>
 
 
 <h1 align="center"> Open Source Microscopy Symposium </h1>
