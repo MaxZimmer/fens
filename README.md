@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center"> Open Source Microscopy Symposium
+<h3 align="center"> Open Source Microscopy Symposium
 <h3 align="center"> Developing microscopy tools for neuroscience research and education
 <h6 align="right">by
 <img align="right"><img src="https://github.com/MaxZimmer/fens/blob/main/Logos/ON.png" width="300"/>
