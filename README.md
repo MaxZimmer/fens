@@ -1,8 +1,9 @@
 ﻿<img align="left" src="https://github.com/MaxZimmer/fens/blob/main/Logos/FENS.png" width="300"/>
 ﻿<img align="right" src="https://github.com/MaxZimmer/fens/blob/main/Logos/IP.png" width="300"/>
 
-<p><h1 align="center">Open Source Microscopy Symposium</h1></p>
-<h3 align="center">Developing microscopy tools for neuroscience research and education</h3>
+![logo](https://github.com/MaxZimmer/fens/blob/main/Logos/IP.png)
+<h1 align="center"> Open Source Microscopy Symposium </h1>
+<h3 align="center"> Developing microscopy tools for neuroscience research and education </h3>
 <p align="center"><h6 align="right">by </h6>
 <img align="right"><img src="https://github.com/MaxZimmer/fens/blob/main/Logos/ON.png" width="300"/></p>
 
