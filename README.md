@@ -1,6 +1,6 @@
 
 ﻿<p align="left"> <img src="https://github.com/MaxZimmer/fens/blob/main/Logos/FENS.png" width="300"/>
-﻿<p align="right" > <img src="https://github.com/MaxZimmer/fens/blob/main/Logos/IP.png" width="300"/>
+﻿<img align="right" src="https://github.com/MaxZimmer/fens/blob/main/Logos/IP.png" width="300"/></p>
 
 
 
