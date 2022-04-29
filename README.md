@@ -4,10 +4,8 @@
 <h1 align="center">Open Source Microscopy Symposium</h1></p>
 <h3 align="center">Developing microscopy tools for neuroscience research and education</h3>
 <p align="center"><h6 align="right">by </h6>
-https://github.com/MaxZimmer/fens/blob/main/Logos/ON.png</p>
-<p align="center"><h6 align="right">adapted by M.J.Y. Zimmermann</h6></p>
-<img align="center" src="https://github.com/BadenLab/Openspritzer/blob/master/Images/Cover%20Picture2.PNG" width="1000"/>
-</p>
+<img src="https://github.com/MaxZimmer/fens/blob/main/Logos/ON.png" width="300"/></p>
+
 
 
 <p align="justify">Designed for ease of use, robustness and low-cost, the “Openspritzer” is an open hardware “Picospritzer” as routinely used
