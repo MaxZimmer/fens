@@ -1,4 +1,6 @@
-﻿<p align="right"><img src="https://github.com/BadenLab/Zebrafish-visual-space-model/blob/master/Images/Logo.png" width="300"/>
+﻿<p align="left"><img src="https://github.com/MaxZimmer/fens/blob/main/Logos/FENS.png" width="300"/>
+﻿<p align="right"><img src="https://github.com/MaxZimmer/fens/blob/main/Logos/IP.png" width="300"/>
+
 <h1 align="center">Openspritzer</h1></p>
 <h3 align="center">An open hardware pressure ejection system for reliably delivering picolitre volumes.</h3>
 <p align="center"><h6 align="right">by C.J. Forman, H. Tomes, B. Mbobo, R.J. Burman, M. Jacobs, T Baden &
