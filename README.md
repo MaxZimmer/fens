@@ -4,10 +4,10 @@
 <br>  
 ***
 
-# Open Source Microscopy Symposium
-<h3 align="center"> Developing microscopy tools for neuroscience research and education </h3>
-<p align="center"><h6 align="right">by </h6>
-<img align="right"><img src="https://github.com/MaxZimmer/fens/blob/main/Logos/ON.png" width="300"/></p>
+<h1 align="center"> Open Source Microscopy Symposium
+<h3 align="center"> Developing microscopy tools for neuroscience research and education
+<align="center"><h6 align="right">by 
+<img align="right"><img src="https://github.com/MaxZimmer/fens/blob/main/Logos/ON.png" width="300"/>
 
 
 Gathering around the
