@@ -164,10 +164,8 @@ Open Ephys is a nonprofit based in Cambridge, Massachusetts, with team members d
 
 
 
-<p>
-<img align="left" src="https://github.com/MaxZimmer/fens/blob/main/Logos/TReND.png" width="200"/>
-<img align="center" src="https://github.com/MaxZimmer/fens/blob/main/Logos/UoS.png" width="300"/>
-<img align="right" src="https://github.com/MaxZimmer/fens/blob/main/Logos/FBI.png" width="400"/>
-</p>
+
+<img align="center" src="https://github.com/MaxZimmer/fens/blob/main/Logos/sponsors.png"/>
+
 
 <img align="center"><img src="https://github.com/MaxZimmer/fens/blob/main/Logos/WWN.png"/>
