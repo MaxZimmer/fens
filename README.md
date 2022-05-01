@@ -27,7 +27,9 @@ The afternoon session will be dedicated to a series of talks by our invited spec
 It is our goal that by the end of the day, participants get a full picture of the state of the art for Open-Source Microscopy. It is hoped that development and implementation of such tools and techniques in modern research units promote science accessibility and improve data reproducibility. Furthermore, an earlier and more systematic access to advanced science tools in education could only support shaping the research minds of tomorrow.
 
 ***
-Registration
+
+- [ ] Make registration form
+- [ ] Update on webpage
 ***
 
 
@@ -99,27 +101,27 @@ Open Ephys is a nonprofit based in Cambridge, Massachusetts, with team members d
 
 >13:00: **Maxime Zimmermann**, Institut Pasteur, Open-Neuroscience
 >
->Introduction
+>>Introduction
 
 >13:10: **Nathalie Aulner**, Institut Pasteur
 >
->Presentation of France BioImaging
+>>Presentation of France BioImaging
 
 >13:20: **Barbora Marsikova**, Institute for photonic technologies, University of Jena, Germany
 >
->UC2 – An Open-Source Optical Toolbox for Multi-Modal Imaging
+>>UC2 – An Open-Source Optical Toolbox for Multi-Modal Imaging
 
 >13:40: **Richard Bowman**, Centre for Photonics and Photonic Materials University of Bath, UK
 >
-> OpenFlexure, - An Open-Source 3D-printed microscope, including a precise mechanical stage to move the sample and focus the optics.
+>> OpenFlexure, - An Open-Source 3D-printed microscope, including a precise mechanical stage to move the sample and focus the optics.
 
 >14:00: **Julien Colombeli**, Institute for Research in Biomedicine, Barcelona, Spain
 >
->LEGOLish – Building a motorised research light sheet microscope from Lego blocks
+>>LEGOLish – Building a motorised research light sheet microscope from Lego blocks
 
 >14:25: **Samyra Salek**, TReND in Africa, NGO, UK
 >
->TReND in Africa – A charity supporting scientific capacity building across Africa and promoting Open-Science to help improve the scientific output on the continent.
+>>TReND in Africa – A charity supporting scientific capacity building across Africa and promoting Open-Science to help improve the scientific output on the continent.
 
 
 <h4 align="center">14:50 – 15:00 : Coffee break  
@@ -131,15 +133,15 @@ Open Ephys is a nonprofit based in Cambridge, Massachusetts, with team members d
 
 >15:00: **Edvard Moser** / **Weijian Zong**, Kavli Institute for Systems Neuroscience and Centre for Neural Computation, Norwegian University of Science and Technology (NTNU), Trondheim, Norway
 >
->Mini2P – An Open-Source miniature brain microscope allowing large-scale two-photon calcium imaging in freely moving mice
+>>Mini2P – An Open-Source miniature brain microscope allowing large-scale two-photon calcium imaging in freely moving mice
 
 >15:45: **Andrea Giovanucci**, Department of Biomedical Engineering, University of North Carolina, US
 >
->CaImAn – Open-Source scalable algorithms for calcium and voltage imaging data
+>>CaImAn – Open-Source scalable algorithms for calcium and voltage imaging data
 
 >16:10: **Filip Janiak**, School of Life Sciences, University of Sussex, Brighton, UK
 >
->nTCscope – A Non-Telecentric two-photon microscopy technic for 3D random access mesoscale imaging
+>>nTCscope – A Non-Telecentric two-photon microscopy technic for 3D random access mesoscale imaging
 
 
 <h4 align="center">16:35 – 16:45: Coffee break   
@@ -148,19 +150,15 @@ Open Ephys is a nonprofit based in Cambridge, Massachusetts, with team members d
 
 >16:45: **Hannah Heil**, Instituto Gulbenkian de Ciência, Oeiras, Portugal
 >
->3D-printing in Optical microscopy for Super-Resolution Microscopy and Single-Particle Analysis
+>>3D-printing in Optical microscopy for Super-Resolution Microscopy and Single-Particle Analysis
 
 >17:10: **Estibaliz Gomez de Mariscal**, Instituto Gulbenkian de Ciência, Oeiras, Portugal
 >
->DeepBacs - Bacterial image analysis using open-source deep learning approaches
+>>DeepBacs - Bacterial image analysis using open-source deep learning approaches
 
 >17:35: **Alex Leighton**, Open Ephys, Open-Source company, Portugal
 >
->Distributing and supporting Open-Ephys, MiniScope and other Open-Source hardware throughout the scientific community.
-
-
-
-
+>>Distributing and supporting Open-Ephys, MiniScope and other Open-Source hardware throughout the scientific community.
 
 
 
